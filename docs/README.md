@@ -5,4 +5,4 @@
 - [01 - “星火”简明版](xinghuo.md)
 - [02 - 《共产党宣言》精选](communist-manifesto.md)
 - [03 - 官僚阶级与安那其(全书)](BureaucraticAndAnarchy.md)
-- [05 - 《无政府主义人类学碎片》精选](FragmentsOfAnAnarchistAnthropology.md)
+- [04 - 《无政府主义人类学碎片》精选](FragmentsOfAnAnarchistAnthropology.md)
