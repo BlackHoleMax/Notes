@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# My quick notes<small>By BlackHoleMax</small>
+# My quick notes
 
 > 一份快速阅读方案
 
